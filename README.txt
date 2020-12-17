@@ -3,7 +3,7 @@ This is a project about designing and implementing a GUI for priority search tre
 
 
 The github page design provided by html5up.net, some changes has been made to the original code to make the web page. (See license below)
-==============================================================================================================================================================================
+===========================================================================================================================================
 Eventually by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
