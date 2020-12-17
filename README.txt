@@ -1,6 +1,8 @@
 Introduction
 This is a project about designing and implementing a GUI for priority search tree. (COMP390 Final year project, University of Liverpool)
 
+This repository is now maintained by the creator, if any issues please contact mo_shuheng2020@163.com.
+
 
 The github page design provided by html5up.net, some changes has been made to the original code to make the web page. (See license below)
 ===========================================================================================================================================
