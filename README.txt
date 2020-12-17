@@ -4,7 +4,7 @@ This is a project about designing and implementing a GUI for priority search tre
 This repository is now maintained by the creator, if any issues please contact mo_shuheng2020@163.com.
 
 
-The github page design provided by html5up.net, some changes has been made to the original code to make the web page. (See license below)
+The github page https://m0jax999429.github.io/prioritysearchtree.github.com/ design provided by html5up.net, some changes has been made to the original code to make the web page. (See license below)
 ===========================================================================================================================================
 Eventually by HTML5 UP
 html5up.net | @ajlkn
