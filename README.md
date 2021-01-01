@@ -1,10 +1,12 @@
-Introduction
-This is a project about designing and implementing a GUI for priority search tree. (COMP390 Final year project, University of Liverpool)
+Overview
+This is a project about designing and implementing a interactive GUI for priority search tree. (COMP390 Final year project,2020, University of Liverpool)
 
-This repository is now maintained by the creator, if any issues please contact mo_shuheng2020@163.com.
+Note: This repository is now maintained by the author, if any issues please contact mo_shuheng2020@163.com.
 
+Acknowledgement
 
-The github page https://m0jax999429.github.io/prioritysearchtree.github.com/ design provided by html5up.net, some changes has been made to the original code to make the web page. (See license below)
+The github personal webpage https://m0jax999429.github.io/prioritysearchtree.github.com/ template provided by HTML5 UP, see the liscense below.
+
 ===========================================================================================================================================
 Eventually by HTML5 UP
 html5up.net | @ajlkn
