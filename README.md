@@ -8,7 +8,7 @@ Acknowledgement
 
 The github personal webpage https://m0jax999429.github.io/prioritysearchtree.github.com/ template provided by HTML5 UP, see the liscense below.
 
-===========================================================================================================================================
+=============================================================
 Eventually by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
