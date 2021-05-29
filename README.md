@@ -6,5 +6,5 @@ Notice: This repository is now maintained by the author, if any issues please co
 
 Acknowledgement
 
-The github page https://m0jax999429.github.io/prioritysearchtree.github.com/ template provided by HTML5 UP, see the liscense below.
+The github page https://m0jax999429.github.io/GUI-for-Priority-Search-Tree/ template provided by HTML5 UP, see the liscense below.
 
